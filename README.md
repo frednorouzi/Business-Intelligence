@@ -1,2 +1,2 @@
-# business-intelligence
+# Business-Intelligence
 College Projects
